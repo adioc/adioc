@@ -7,6 +7,8 @@
 - **⚡ Education： 毕业于华中科技大学(HUST) 材料科学与工程(Mateials Sicence & Engineering） 学士(bachelor) 2019**
 
 - 😄 Fun fact: I'm a expert on 退堂鼓.
+
+![PDCA](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 **adioc/adioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
