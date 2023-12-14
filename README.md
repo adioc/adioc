@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-**Dog learning new trickst**
+**A dog learning new trickst**
 
 - **🔭 I’m currently working on aluminum alloy casting process**
 
- - **⚡ Education： 毕业于华中科技大学(HUST) 材料科学与工程(Mateials Sicence & Engineering） 学士(bachelor) 2019 **
+- **⚡ Education： 毕业于华中科技大学(HUST) 材料科学与工程(Mateials Sicence & Engineering） 学士(bachelor) 2019 **
 
- - 
+- 😄 Fun fact: I'm a expert on 退堂鼓.
 <!--
 **adioc/adioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
