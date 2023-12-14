@@ -8,7 +8,7 @@
 
 - 😄 Fun fact: I'm a expert on 退堂鼓.
 
-![PDCA](../images/OIG.jpg)
+![PDCA](../OIG.jpg)
 <!--
 **adioc/adioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
