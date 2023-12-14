@@ -8,7 +8,7 @@
 
 - 😄 Fun fact: I'm a expert on 退堂鼓.
 
-![PDCA]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/adioc/adioc/blob/3f15e5ecf32adc9996d56f04db659fc05ddbbe5e/OIG.jpg)
+![PDCA](https://github.com/adioc/adioc/blob/3f15e5ecf32adc9996d56f04db659fc05ddbbe5e/OIG.jpg)
 <!--
 **adioc/adioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
