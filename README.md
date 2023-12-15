@@ -10,7 +10,8 @@
 
 ![PDCA](https://github.com/adioc/adioc/blob/bc245e9bcfd04ae541e7d5d9fc854fe3e681607d/OIG.png)
 
-![Visitor Count](https://profile-counter.glitch.me/adioc/count.svg)
+This page has been viewed
+![Visitor Count](https://profile-counter.glitch.me/adioc/count.svg) times. 
 <!--
 **adioc/adioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
