@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a dog learning new trickst**
+**My name is adioc, I'm a dog learning new tricks.**
 
 - **🔭 I’m currently working on aluminum alloy casting process**
 
